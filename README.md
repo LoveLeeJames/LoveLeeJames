@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LoveLeeJames
+- 👋 Hi, I’m Cheng Tsung Lee
   > Undergraduate student, studying ML/DL in National Yang Ming Chiao Tung University
 
 - 👀 I'm interested in
