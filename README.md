@@ -1,17 +1,14 @@
 - 👋 Hi, I’m Cheng Tsung Lee
-  > Undergraduate student, studying ML/DL in National Yang Ming Chiao Tung University
+  > Undergraduate student, studying ML/DL
 
-- 👀 I'm interested in
-  > coding, baseball, playing drums, and scuba diving
+- 🏫 School:
+  > National Yang Ming Chiao Tung University
 
-- 🌱 I’m currently learning
-  > computer vision, especially diffusion models
+- 📚 Research Interests:
+  > Computer Vision, Large Language Model
 
-- 💞️ I’m looking to collaborate on
-  > haven't thought of yet
-
-- 📫 How to reach me
-  > if you know me, you know me
+- 💻 Programming Lauguage:
+  > Python, C, C++, Javascript
 
 <!---
 LoveLeeJames/LoveLeeJames is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
