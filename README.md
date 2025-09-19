@@ -1,11 +1,11 @@
 - 👋 Hi, I’m Cheng Tsung Lee
-  > Undergraduate student, studying ML/DL
+  > PhD student, studying ML/DL
 
 - 🏫 School:
   > National Yang Ming Chiao Tung University
 
 - 📚 Research Interests:
-  > Computer Vision, Large Language Model
+  > Computer Vision, Natural Language Processing, Large Language Model
 
 - 💻 Programming Lauguage:
   > Python, C, C++, Javascript
